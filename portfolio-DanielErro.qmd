@@ -55,7 +55,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, as well as find and use tutorials to enhance my understanding of new concepts.
+I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, as well as find and use tutorials to enhance my understanding of new concepts. (link a tidyverse example).
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I commonly use online resources (primarily Google and StackOverflow) to solve problems and debug my code. I have not yet mastered reading the documentation of APIs to figure out how to access data, which is why I have not reached level 3 for this learning objective.
+I commonly use online resources (primarily Google and StackOverflow) to solve problems and debug my code, however I do not document them enough. I have not yet mastered reading the documentation of APIs to figure out how to access data, which is why I have not reached level 3 for this learning objective. (add link to stack overflow, then link that PR)
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I can now use Git and GitHub proficiently to track my progress and collaborate with group members. However, most of our projects and labs in GitHub have been set up by group mates rather than myself, so I do not feel as if I have mastered all of the collaboration tools of GitHub.
+I can now use Git and GitHub proficiently to track my progress and collaborate with group members. However, most of our projects and labs in GitHub have been set up by group mates rather than myself, so I do not feel as if I have mastered all of the collaboration tools of GitHub. (not sure)
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I am able to produce clean and reproducible documents using both Quarto and R Markdown. I am also able to utilize appropriate chunk options to render my documents quickly and cleanly. However, I have not memorized or maybe even explored all possible code chunk options. I sometimes have to do a Google search to find the correct option, which is why I have not reached level 4 for this learning objective.
+I am able to produce clean and reproducible documents using both Quarto and R Markdown. I am also able to utilize appropriate chunk options to render my documents quickly and cleanly. However, I have not memorized or maybe even explored all possible code chunk options. I sometimes have to do a Google search to find the correct option, which is why I have not reached level 4 for this learning objective. (example of adding code chunk options)
 
 ------------------------------------------------------------------------
 
@@ -165,7 +165,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification
 
-My code could oftentimes use more comments in order for it to be more readable, especially to other people. My code is usually organized, but comments would make it more readable and clear. I use a package-based workflow by loading in all of my packages at the beginning of the document, which keeps my code organized. To reach level 3 and maybe even level 4, I need to start commenting my code much more often.
+My code could oftentimes use more comments in order for it to be more readable, especially to other people. My code is usually organized, but comments would make it more readable and clear. I use a package-based workflow by loading in all of my packages at the beginning of the document, which keeps my code organized. To reach level 3 and maybe even level 4, I need to start commenting my code much more often. (add PR with adding libraries)
 
 ------------------------------------------------------------------------
 
@@ -197,6 +197,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+(shiny app explanations)
 
 ------------------------------------------------------------------------
 
@@ -276,6 +278,8 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
+(link mapping example PR)
+
 ------------------------------------------------------------------------
 
 ## \[DM-3\] Data formats
@@ -293,7 +297,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Level: `r my_level`
 
-### Justification
+### Justification:
 
 ------------------------------------------------------------------------
 
@@ -316,7 +320,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Level: `r my_level`
 
-### Justification
+### Justification:
 
 ------------------------------------------------------------------------
 
@@ -419,7 +423,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I am able to create a functional Shiny app. I also understand the principle of reactivity, and have implemented it in my Shiny apps. However, much of the syntax for coding a Shiny app is new to me, so I often have to use Google to figure out the proper syntax for what I want to do.
+I am able to create a functional Shiny app. I also understand the principle of reactivity, and have implemented it in my Shiny apps. However, much of the syntax for coding a Shiny app is new to me, so I often have to use Google to figure out the proper syntax for what I want to do. (link to reactivity in shiny app (practice activity))
 
 ------------------------------------------------------------------------
 
@@ -476,7 +480,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Level: `r my_level`
 
-### Justification
+### Justification:
 
 ------------------------------------------------------------------------
 
