@@ -98,7 +98,7 @@ I commonly use online resources (primarily Google and StackOverflow) to solve pr
 #| include: false
 #| label: RW-1
 
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -110,6 +110,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+I can now use Git and GitHub proficiently to track my progress and collaborate with group members. However, most of our projects and labs in GitHub have been set up by group mates rather than myself, so I do not feel as if I have mastered all of the collaboration tools of GitHub.
 
 ------------------------------------------------------------------------
 
