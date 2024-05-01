@@ -55,6 +55,8 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
+I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, as well as find and use tutorials to enhance my understanding of new concepts.
+
 ------------------------------------------------------------------------
 
 ## \[IL-2\] Online resources:
