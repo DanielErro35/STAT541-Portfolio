@@ -42,7 +42,7 @@ portfolio_levels <- tibble(
 # 3 = mastery 
 # 4 = expert
 
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -68,7 +68,7 @@ portfolio_levels <- portfolio_levels %>%
 #| label: IL-2
 
 ## Fill in the line below with your self-assigned level for this objective.
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -80,6 +80,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+I commonly use online resources (primarily Google and StackOverflow) to solve problems and debug my code. I have not yet mastered reading the documentation of APIs to figure out how to access data, which is why I have not reached level 3 for this learning objective.
 
 ------------------------------------------------------------------------
 
