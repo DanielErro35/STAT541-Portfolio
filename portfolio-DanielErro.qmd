@@ -404,7 +404,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: PV-4
 
-my_level <- 1
+my_level <- 3
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -416,6 +416,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+I am able to create a functional Shiny app. I also understand the principle of reactivity, and have implemented it in my Shiny apps. However, much of the syntax for coding a Shiny app is new to me, so I often have to use Google to figure out the proper syntax for what I want to do.
 
 ------------------------------------------------------------------------
 
