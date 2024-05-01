@@ -124,7 +124,7 @@ I can now use Git and GitHub proficiently to track my progress and collaborate w
 #| include: false
 #| label: RW-2
 
-my_level <- 1
+my_level <- 3
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -136,6 +136,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+I am able to produce clean and reproducible documents using both Quarto and R Markdown. I am also able to utilize appropriate chunk options to render my documents quickly and cleanly. However, I have not memorized or maybe even explored all possible code chunk options. I sometimes have to do a Google search to find the correct option, which is why I have not reached level 4 for this learning objective.
 
 ------------------------------------------------------------------------
 
