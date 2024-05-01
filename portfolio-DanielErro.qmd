@@ -150,7 +150,7 @@ I am able to produce clean and reproducible documents using both Quarto and R Ma
 #| include: false
 #| label: RW-3
 
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -162,6 +162,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification
+
+My code could oftentimes use more comments in order for it to be more readable, especially to other people. My code is usually organized, but comments would make it more readable and clear. I use a package-based workflow by loading in all of my packages at the beginning of the document, which keeps my code organized. To reach level 3 and maybe even level 4, I need to start commenting my code much more often.
 
 ------------------------------------------------------------------------
 
