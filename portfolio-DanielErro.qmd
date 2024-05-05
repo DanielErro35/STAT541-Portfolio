@@ -163,7 +163,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Level: `r my_level`
 
-### Justification
+### Justification:
 
 My code could oftentimes use more comments in order for it to be more readable, especially to other people. My code is usually organized, but comments would make it more readable and clear. I use a package-based workflow by loading in all of my packages at the beginning of the document, which keeps my code organized. To reach level 3 and maybe even level 4, I need to start commenting my code much more often. (add PR with adding libraries)
 
@@ -185,7 +185,7 @@ My code could oftentimes use more comments in order for it to be more readable, 
 #| include: false
 #| label: TC-1
 
-my_level <- 1
+my_level <- 3
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -198,7 +198,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-(shiny app explanations)
+I can summarize the contributions of my project, as well as accurately interpret statistical or modeling results. I also consider the appropriate scope and impact of my project results. I have shown this understanding how the final product/results of each lab and project can be interpreted. (shiny app explanations)
 
 ------------------------------------------------------------------------
 
