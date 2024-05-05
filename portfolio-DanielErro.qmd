@@ -282,13 +282,13 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I have used mapping in a custom function to clean a variable in a data set. However, I have not yet shown that I can cleverly use pivoting, grouping, and joining to wrangle data. (link mapping example PR)
+I have used mapping in a custom function to clean a variable in a data set. However, I have not yet shown that I can cleverly use pivoting, grouping, and joining to wrangle data. ([Mapping example PR](https://github.com/Cal-Poly-Advanced-R/lab-3-using-apis-kchan78/pull/7))
 
 ------------------------------------------------------------------------
 
 ## \[DM-3\] Data formats
 
--   I can use API urls to access JSON data and convert it to a data frame
+-   I can use API URLs to access JSON data and convert it to a data frame
 
 ```{r}
 #| include: false
@@ -305,7 +305,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I have not yet shown proficiency for this learning objective yet because my lab partners have been the ones to use API urls to access JSON data and convert it to a data frame. To improve on this, I will take on this role the next time I have the opportunity.
+I have not yet shown proficiency for this learning objective yet because my lab partners have been the ones to use API URLs to access JSON data and convert it to a data frame. To improve on this, I will take on this role the next time I have the opportunity.
 
 ------------------------------------------------------------------------
 
