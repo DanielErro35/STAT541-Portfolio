@@ -361,7 +361,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I do not have much experience in using less common geometries, especially those from ggplot extension packages. However, I am confident in my ability to use correct aesthetics to map variables. I also understand how geometries inherit aesthetics, and I can add annotations to my plots. (find ggplot example)
+I do not have much experience in using less common geometries, especially those from ggplot extension packages. However, I am confident in my ability to use correct aesthetics to map variables. I also understand how geometries inherit aesthetics, and I can add annotations to my plots. I am starting to get more comfortable in using the leaflet package as well. ([Using leaflet PR](https://github.com/Cal-Poly-Advanced-R/lab-3-using-apis-kchan78/pull/3))
 
 ------------------------------------------------------------------------
 
