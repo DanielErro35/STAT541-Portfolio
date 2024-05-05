@@ -1,6 +1,6 @@
 ---
 title: "Stat 541 Final Portfolio"
-format: pdf
+format: html
 editor: visual
 self-contained: true
 toc: true
