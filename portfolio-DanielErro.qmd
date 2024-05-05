@@ -55,7 +55,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, such as tidy, as well as find and use tutorials to enhance my understanding of new concepts. (link a tidyverse example).
+I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, such as tidy, as well as find and use tutorials to enhance my understanding of new concepts. ([ggplot example](https://github.com/Cal-Poly-Advanced-R/lab-2-visualization-chloefeehan/pull/8))
 
 ------------------------------------------------------------------------
 
@@ -426,7 +426,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: PV-4
 
-my_level <- 3
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -439,7 +439,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I am able to create a functional Shiny app. I also understand the principle of reactivity, and have implemented it in my Shiny apps. However, much of the syntax for coding a Shiny app is new to me, so I often have to use Google to figure out the proper syntax for what I want to do. (link to reactivity in shiny app (practice activity))
+I am able to create a functional Shiny app. I also understand the principle of reactivity, and have implemented it in my Shiny apps. However, much of the syntax for coding a Shiny app is new to me, so I often have to use Google to figure out the proper syntax for what I want to do. (I have not yet shown this skill in a lab or project, only in a practice activity)
 
 ------------------------------------------------------------------------
 
