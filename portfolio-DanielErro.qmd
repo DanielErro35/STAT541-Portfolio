@@ -256,7 +256,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I can both read data sets into R as well as clean them. I have also proven that I can deal with poor formatting in a data set. (link mapping example PR)
+I can both read data sets into R as well as clean them. I have also proven that I can deal with poor formatting in a data set. ([Mapping example PR](https://github.com/Cal-Poly-Advanced-R/lab-3-using-apis-kchan78/pull/7))
 
 ------------------------------------------------------------------------
 
