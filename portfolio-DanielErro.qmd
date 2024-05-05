@@ -317,7 +317,7 @@ I have not yet shown proficiency for this learning objective yet because my lab 
 #| include: false
 #| label: DM-4
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -396,7 +396,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: PV-3
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -455,7 +455,7 @@ I am able to create a functional Shiny app. I also understand the principle of r
 #| include: false
 #| label: SD-1
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -483,7 +483,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: SD-2
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -515,7 +515,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: MO-1
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -541,7 +541,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: MO-2
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -572,7 +572,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: AI-1
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -598,7 +598,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: AI-2
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -630,7 +630,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: CD-1
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -656,7 +656,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: CD-2
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -682,7 +682,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: CD-3
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -709,7 +709,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: CD-4
 
-my_level <- 1
+my_level <- 0
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
