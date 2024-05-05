@@ -55,7 +55,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, as well as find and use tutorials to enhance my understanding of new concepts. (link a tidyverse example).
+I do not typically seek out new packages that I have not used before to accomplish tasks in my code. However, I am usually able to adapt to different syntax styles, such as tidy, as well as find and use tutorials to enhance my understanding of new concepts. (link a tidyverse example).
 
 ------------------------------------------------------------------------
 
@@ -198,7 +198,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I can summarize the contributions of my project, as well as accurately interpret statistical or modeling results. I also consider the appropriate scope and impact of my project results. I have shown this understanding how the final product/results of each lab and project can be interpreted. (shiny app explanations)
+I can summarize the contributions of my project, as well as accurately interpret statistical or modeling results. I also consider the appropriate scope and impact of my project results. I have shown this understanding how the final product/results of each lab and project can be interpreted. ([Explaining Shiny app example](https://github.com/mys029/Project1/pull/8))
 
 ------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ I have not yet provided much documentation or tutorials for any custom functions
 
 # Data Manipulation (DM):
 
-*These objectives relate to the collection, cleaning, processing, and preparing of datasets for analysis.*
+*These objectives relate to the collection, cleaning, processing, and preparing of data sets for analysis.*
 
 ------------------------------------------------------------------------
 
