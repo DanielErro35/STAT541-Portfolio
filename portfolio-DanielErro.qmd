@@ -348,7 +348,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: PV-1
 
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -361,6 +361,8 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
+I do not have much experience in using less common geometries, especially those from ggplot extension packages. However, I am confident in my ability to use correct aesthetics to map variables. I also understand how geometries inherit aesthetics. (find ggplot example)
+
 ------------------------------------------------------------------------
 
 ## \[PV-2\] ggplot: theme
@@ -372,7 +374,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: PV-2
 
-my_level <- 1
+my_level <- 3
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -384,6 +386,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+I can confidently edit the titles, subtitles, captions, and axis labels to create a clearly labelled plot. I also understand the grammar of graphics, and what a visually pleasing plot should look like. I can choose colors and themes to make the visually pleasing plot. (find ggplot example)
 
 ------------------------------------------------------------------------
 
