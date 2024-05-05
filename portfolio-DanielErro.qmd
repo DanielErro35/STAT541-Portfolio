@@ -224,6 +224,8 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
+I have not yet provided much documentation or tutorials for any custom functions that I have created. To improve on this learning objective, I will start adding more comments to my code, especially when writing functions.
+
 ------------------------------------------------------------------------
 
 # Data Manipulation (DM):
@@ -241,7 +243,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: DM-1
 
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -254,6 +256,8 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
+I can both read data sets into R as well as clean them. I have also proven that I can deal with poor formatting in a data set. (link mapping example PR)
+
 ------------------------------------------------------------------------
 
 ## \[DM-2\] Data wrangling
@@ -265,7 +269,7 @@ portfolio_levels <- portfolio_levels %>%
 #| include: false
 #| label: DM-2
 
-my_level <- 1
+my_level <- 2
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(
@@ -278,7 +282,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-(link mapping example PR)
+I have used mapping in a custom function to clean a variable in a data set. However, I have not yet shown that I can cleverly use pivoting, grouping, and joining to wrangle data. (link mapping example PR)
 
 ------------------------------------------------------------------------
 
