@@ -139,7 +139,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I am able to produce clean and reproducible documents using both Quarto and R Markdown. I am also able to utilize appropriate chunk options to render my documents quickly and cleanly. However, I have not memorized or maybe even explored all possible code chunk options. I sometimes have to do a Google search to find the correct option, which is why I have not reached level 4 for this learning objective. (example of adding code chunk options)
+I am able to produce clean and reproducible documents using both Quarto and R Markdown. I am also able to utilize appropriate chunk options to render my documents quickly and cleanly. However, I have not memorized or maybe even explored all possible code chunk options. I sometimes have to do a Google search to find the correct option, which is why I have not reached level 4 for this learning objective. ([Adding code labels](https://github.com/Cal-Poly-Advanced-R/lab-2-visualization-chloefeehan/pull/6))
 
 ------------------------------------------------------------------------
 
