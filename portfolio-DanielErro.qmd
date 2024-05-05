@@ -165,7 +165,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-My code could oftentimes use more comments in order for it to be more readable, especially to other people. My code is usually organized, but comments would make it more readable and clear. I use a package-based workflow by loading in all of my packages at the beginning of the document, which keeps my code organized. To reach level 3 and maybe even level 4, I need to start commenting my code much more often. (add PR with adding libraries)
+My code could oftentimes use more comments in order for it to be more readable, especially to other people. My code is usually organized, but comments would make it more readable and clear. I use a package-based workflow by loading in all of my packages at the beginning of the document, which keeps my code organized. To reach level 3 and maybe even level 4, I need to start commenting my code much more often. ([Adding comments example](https://github.com/Cal-Poly-Advanced-R/lab-2-visualization-chloefeehan/pull/12))
 
 ------------------------------------------------------------------------
 
