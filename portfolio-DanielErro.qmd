@@ -83,7 +83,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I commonly use online resources (primarily Google and StackOverflow) to solve problems and debug my code, however I do not document them enough. I have not yet mastered reading the documentation of APIs to figure out how to access data, which is why I have not reached level 3 for this learning objective. (add link to stack overflow, then link that PR)
+I commonly use online resources (primarily Google and StackOverflow) to solve problems and debug my code, however I do not document them enough. I have not yet mastered reading the documentation of APIs to figure out how to access data, which is why I have not reached level 3 for this learning objective. (I will start citing sources to my online resources)
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ portfolio_levels <- portfolio_levels %>%
 
 ### Justification:
 
-I can now use Git and GitHub proficiently to track my progress and collaborate with group members. However, most of our projects and labs in GitHub have been set up by group mates rather than myself, so I do not feel as if I have mastered all of the collaboration tools of GitHub. (not sure)
+I can now use Git and GitHub proficiently to track my progress and collaborate with group members. However, most of our projects and labs in GitHub have been set up by group mates rather than myself, so I do not feel as if I have mastered all of the collaboration tools of GitHub. ([Link to first PR](https://github.com/Cal-Poly-Advanced-R/lab-1-review-chloefeehan/pull/5))
 
 ------------------------------------------------------------------------
 
