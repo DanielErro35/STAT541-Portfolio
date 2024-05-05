@@ -122,7 +122,7 @@ I can now use Git and GitHub proficiently to track my progress and collaborate w
 -   I can use Quarto and/or R Markdown to produce a reproducible notebook and polished rendered document.
 -   I can use appropriate chunk options (echo, error, cache, etc.) to render my qmd/Rmd quickly and cleanly.
 
-```{r, include = FALSE}
+```{r}
 #| include: false
 #| label: RW-2
 
@@ -290,9 +290,11 @@ I have used mapping in a custom function to clean a variable in a data set. Howe
 
 -   I can use API urls to access JSON data and convert it to a data frame
 
-```{r, include = FALSE}
-## Fill in the line below with your self-assigned level for this objective.
-my_level <- 0
+```{r}
+#| include: false
+#| label: DM-3
+
+my_level <- 1
 
 portfolio_levels <- portfolio_levels %>%
   bind_rows(tibble(Objective = "DM-3", 
@@ -302,6 +304,8 @@ portfolio_levels <- portfolio_levels %>%
 ### Level: `r my_level`
 
 ### Justification:
+
+I have not yet shown proficiency for this learning objective yet because my lab partners have been the ones to use API urls to access JSON data and convert it to a data frame. To improve on this, I will take on this role the next time I have the opportunity.
 
 ------------------------------------------------------------------------
 
